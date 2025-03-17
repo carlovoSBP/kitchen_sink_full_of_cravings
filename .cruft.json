@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/carlovoSBP/crave_all_the_money",
+  "commit": "9f155a0346b2abe08dfbfd2a471884174f833963",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Kitchen Sink Full of Cravings",
+      "project_slug": "kitchen_sink_full_of_cravings",
+      "project_description": "Cookies!",
+      "author_name": "Cookiecuttermonster",
+      "author_email": "monster@cutter.cookie",
+      "python_version": "3.12",
+      "_template": "https://github.com/carlovoSBP/crave_all_the_money",
+      "_commit": "9f155a0346b2abe08dfbfd2a471884174f833963"
+    }
+  },
+  "directory": null
+}

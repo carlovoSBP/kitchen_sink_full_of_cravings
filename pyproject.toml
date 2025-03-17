@@ -1,0 +1,21 @@
+[project]
+name = "kitchen_sink_full_of_cravings"
+version = "0.1.0"
+description = "Cookies!"
+readme = "README.md"
+authors = [
+    {name = "Cookiecuttermonster", email = "monster@cutter.cookie"},
+]
+requires-python = ">=3.12"
+dependencies = []
+classifiers = [
+  # License
+  "License :: OSI Approved :: Apache Software License",
+
+  # Python versions supported by the package
+  "Programming Language :: Python :: 3.12",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
